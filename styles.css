@@ -1,0 +1,60 @@
+.navbar.navbar-expand-lg{
+	background-color: #5CDB95;
+}
+
+#brandName, #tagLine{
+	margin: 10px;
+	color: #05386B;
+}
+
+body {
+	background-color: #5CDB95;
+}
+
+/*button.navbar-toggler{
+	background-color: #5CDB95;
+	border-color: #05386B;
+}*/
+
+button.navbar-toggler {
+	border-color: #05386B;
+}
+
+span.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(5,56,107,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/*#navbarDropdown{
+	color: #05386B;
+	font-size: 12.5px;
+	font-weight: bold;
+}*/
+
+ul li a {
+	color: #05386B;
+	font-size: 12.5px;
+	font-weight: bold;
+
+}
+.jumbotron {
+	background: url('../jumboGreenery1.jpg') center fixed;
+	background-color: #5CDB95;
+	padding-top: 10em;
+	height: 100%;
+	width: 100%;
+
+}
+#main-content-heading{
+	position: relative;
+	right: 20px;
+	font-size: 65px;
+	font-weight: normal;
+	font-style: italic;
+	color: black;
+}
+
+#jumboPara{
+	font-size: 25px;
+	font-weight: normal;
+	color: #05386B;
+}
